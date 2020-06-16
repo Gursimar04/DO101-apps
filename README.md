@@ -1,3 +1,3 @@
 # DO101-apps
 
-Apps for the DO101 course.
+This repository was used for completing the exercises included in a redhat course called DO101:Introduction to Openshift
